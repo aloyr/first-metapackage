@@ -4,8 +4,8 @@
     "type": "metapackage",
     "require": {
         "drupal/core": "^9",
-        "drupal/metatag": "1.x-dev",
-        "drupal/google_tag": "1.x-dev"
+        "drupal/metatag": "^1",
+        "drupal/google_tag": "^1"
     },
     "authors": [
         {
