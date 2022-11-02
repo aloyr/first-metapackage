@@ -1,5 +1,5 @@
 {
-    "name": "peter/first-metapackage",
+    "name": "petercarrero/first-metapackage",
     "description": "metapackage test",
     "type": "metapackage",
     "require": {
